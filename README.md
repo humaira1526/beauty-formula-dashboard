@@ -2,6 +2,9 @@
 
 Interactive dashboard exploring skincare and cosmetics ingredient-label patterns.
 
+Link to youtube presentation: https://youtu.be/5113vO1DTpc
+Link to dashboard: https://beauty-formula-dashboard.streamlit.app/
+
 ## Run locally
 ```bash
 python -m venv .venv
